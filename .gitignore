@@ -1,0 +1,23 @@
+﻿# Dependencies & build output
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Large data dumps & archives (not source)
+/PFL_292_jsons_2026-10-09/
+/PFL_704_jsons_moves_abilities_2026-10-09/
+/pokeapi-auditoria-2026-10-09/
+/PFL_MVP_GDD_FINAL_CODER/
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Supabase CLI local state
+supabase/.temp/

@@ -1,0 +1,640 @@
+{
+  "pbtResults": {
+    "8.2 Escrever teste de propriedade para o predicado de Especies_Permitidas": {
+      "status": "passed",
+      "lastRunTimestamp": 1791596391997
+    },
+    "10.7 Escrever teste de propriedade para unicidade de `instance_id` por time": {
+      "status": "passed",
+      "lastRunTimestamp": 1791597468683
+    }
+  },
+  "executionHistory": {
+    "1. Inicializar o Projeto_Base Next.js com TypeScript strict": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593382918
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593394758
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593652057
+      }
+    ],
+    "2.1 Criar `vercel.json` e fixar engines do Node": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383058
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593656161
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594520748
+      }
+    ],
+    "3.1 Configurar ESLint para TypeScript e React": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383231
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593657548
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594524172
+      }
+    ],
+    "3.2 Fixar e versionar o lock de dependências": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383348
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594541218
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594892220
+      }
+    ],
+    "4. Instalar e versionar o Anti_Slop": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383460
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593658584
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594527460
+      }
+    ],
+    "5.1 Implementar `lib/supabase/env.ts` com validação de variáveis de ambiente": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383576
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594544032
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594888100
+      }
+    ],
+    "5.2 Escrever testes de exemplo/edge para validação de env vars": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383679
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594923459
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596250689
+      }
+    ],
+    "5.3 Implementar `lib/supabase/public-client.ts` (cliente anon)": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383771
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594911503
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596248147
+      }
+    ],
+    "5.4 Implementar `lib/supabase/server-client.ts` (cliente service-role)": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593383879
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594914539
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596251789
+      }
+    ],
+    "5.5 Escrever teste de exemplo para falha de autenticação sem vazamento": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384002
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596504054
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596797784
+      }
+    ],
+    "6. Criar `.env.example` e `.gitignore` de credenciais": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384091
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593659434
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594529196
+      }
+    ],
+    "7. Checkpoint — garantir build, lint e cliente": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384205
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599378542
+      }
+    ],
+    "8.1 Escrever migration `supabase/migrations/*_init_catalog.sql`": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384308
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594544956
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594885015
+      }
+    ],
+    "8.2 Escrever teste de propriedade para o predicado de Especies_Permitidas": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384417
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596270536
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596491464
+      }
+    ],
+    "8.3 Escrever testes de exemplo para stats base não negativos": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384545
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596271395
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596494121
+      }
+    ],
+    "9.1 Escrever migration `supabase/migrations/*_init_relations.sql`": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384691
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594919832
+      }
+    ],
+    "10.1 Escrever migration `supabase/migrations/*_init_teams.sql` para `user_teams` e `athletes`": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384806
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596505998
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596796244
+      }
+    ],
+    "10.2 Criar `athlete_moves` e o trigger de cardinalidade de 4 golpes distintos": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593384927
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596817697
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596991088
+      }
+    ],
+    "10.3 Criar o trigger de Roster_Cap = 53": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385034
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596821482
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596987062
+      }
+    ],
+    "10.4 Escrever teste de propriedade para integridade referencial de FKs": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385139
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791597004013
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598209012
+      }
+    ],
+    "10.5 Escrever teste de propriedade para o teto do roster": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385240
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791597005374
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598209973
+      }
+    ],
+    "10.6 Escrever teste de propriedade para exatamente quatro golpes distintos": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385355
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791597006623
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598213072
+      }
+    ],
+    "10.7 Escrever teste de propriedade para unicidade de `instance_id` por time": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385487
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791597008018
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598214413
+      }
+    ],
+    "11.1 Escrever migration `supabase/migrations/*_init_lineups_strategy.sql`": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385629
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596823413
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596988556
+      }
+    ],
+    "12.1 Escrever migration `supabase/migrations/*_init_team_seeds.sql`": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593385789
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596824830
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596983345
+      }
+    ],
+    "12.2 Implementar o cálculo canônico do Checksum_Seed e a validação estrutural em `lib/seed/`": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386016
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791597001775
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598216129
+      }
+    ],
+    "12.3 Escrever teste de propriedade para o checksum do seed": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386139
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598221869
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599122440
+      }
+    ],
+    "12.4 Escrever teste de propriedade para validade estrutural do seed": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386238
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598223870
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599123842
+      }
+    ],
+    "13. Documentar convenções de projeto": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386325
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593660366
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594531232
+      }
+    ],
+    "14.1 Escrever smoke de build e lint": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386424
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598224754
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599124800
+      }
+    ],
+    "14.2 Escrever integração de migrations em banco vazio": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386545
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598225904
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599125743
+      }
+    ],
+    "14.3 Escrever smoke de presença dos artefatos anti-slop": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386657
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598227354
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599126818
+      }
+    ],
+    "14.4 Escrever smoke de conexão ao Supabase": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386755
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791598986385
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599121559
+      }
+    ],
+    "15. Checkpoint final — garantir todos os testes": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791593386871
+      },
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599379310
+      }
+    ],
+    "2. Fixar configuração de deploy Vercel e runtime Node": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594533411
+      }
+    ],
+    "3. Configurar lint TypeScript/React e lock de dependências": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791594894740
+      }
+    ],
+    "8. Migration do catálogo (species, abilities, moves)": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596495548
+      }
+    ],
+    "5. Implementar o Módulo Cliente_Supabase": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596800897
+      }
+    ],
+    "11. Migration de escalação e estratégia": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791596992308
+      }
+    ],
+    "12. Migration de seeds de time": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599123936
+      }
+    ],
+    "14. Testes de integração e smoke do ferramental e serviços": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599126996
+      }
+    ],
+    "9. Migration das relações de elegibilidade": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599392637
+      }
+    ],
+    "10. Migration de times e atletas (com triggers de regra)": [
+      {
+        "executionId": "efd41ae7-f240-4914-8726-3fb6579a2524",
+        "chatSessionId": "sess_370c914f-0ce2-4775-87d0-464c1c5643d0",
+        "timestamp": 1791599392968
+      }
+    ]
+  }
+}

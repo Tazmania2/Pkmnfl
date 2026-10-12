@@ -1,0 +1,1088 @@
+{
+  "preset_id": "balanced",
+  "name": "Equilibrado Kanto",
+  "version": "D3-design-6x6-ST",
+  "status": "DATA_VALIDATED_DESIGN_NOT_PLAYABLE",
+  "athletes": [
+    {
+      "instance_id": "balanced-o-01",
+      "pokemon_id": 65,
+      "species": "alakazam",
+      "nickname": null,
+      "ability_id": 28,
+      "ability_name": "synchronize",
+      "move_ids": [
+        94,
+        347,
+        115,
+        113
+      ],
+      "move_names": [
+        "psychic",
+        "calm-mind",
+        "reflect",
+        "light-screen"
+      ],
+      "position_designation": "QB",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-02",
+      "pokemon_id": 59,
+      "species": "arcanine",
+      "nickname": null,
+      "ability_id": 22,
+      "ability_name": "intimidate",
+      "move_ids": [
+        97,
+        245,
+        488,
+        104
+      ],
+      "move_names": [
+        "agility",
+        "extreme-speed",
+        "flame-charge",
+        "double-team"
+      ],
+      "position_designation": "RB",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-03",
+      "pokemon_id": 128,
+      "species": "tauros",
+      "nickname": null,
+      "ability_id": 22,
+      "ability_name": "intimidate",
+      "move_ids": [
+        70,
+        29,
+        36,
+        182
+      ],
+      "move_names": [
+        "strength",
+        "headbutt",
+        "take-down",
+        "protect"
+      ],
+      "position_designation": "FB",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-04",
+      "pokemon_id": 18,
+      "species": "pidgeot",
+      "nickname": null,
+      "ability_id": 51,
+      "ability_name": "keen-eye",
+      "move_ids": [
+        97,
+        98,
+        332,
+        403
+      ],
+      "move_names": [
+        "agility",
+        "quick-attack",
+        "aerial-ace",
+        "air-slash"
+      ],
+      "position_designation": "WR-X",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-05",
+      "pokemon_id": 135,
+      "species": "jolteon",
+      "nickname": null,
+      "ability_id": 10,
+      "ability_name": "volt-absorb",
+      "move_ids": [
+        97,
+        98,
+        104,
+        182
+      ],
+      "move_names": [
+        "agility",
+        "quick-attack",
+        "double-team",
+        "protect"
+      ],
+      "position_designation": "WR-Z",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-06",
+      "pokemon_id": 36,
+      "species": "clefable",
+      "nickname": null,
+      "ability_id": 56,
+      "ability_name": "cute-charm",
+      "move_ids": [
+        182,
+        70,
+        34,
+        29
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "body-slam",
+        "headbutt"
+      ],
+      "position_designation": "TE",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-07",
+      "pokemon_id": 68,
+      "species": "machamp",
+      "nickname": null,
+      "ability_id": 62,
+      "ability_name": "guts",
+      "move_ids": [
+        339,
+        182,
+        70,
+        34
+      ],
+      "move_names": [
+        "bulk-up",
+        "protect",
+        "strength",
+        "body-slam"
+      ],
+      "position_designation": "LT",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-08",
+      "pokemon_id": 76,
+      "species": "golem",
+      "nickname": null,
+      "ability_id": 69,
+      "ability_name": "rock-head",
+      "move_ids": [
+        182,
+        70,
+        334,
+        106
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "iron-defense",
+        "harden"
+      ],
+      "position_designation": "LG",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-09",
+      "pokemon_id": 115,
+      "species": "kangaskhan",
+      "nickname": null,
+      "ability_id": 48,
+      "ability_name": "early-bird",
+      "move_ids": [
+        182,
+        70,
+        34,
+        157
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "body-slam",
+        "rock-slide"
+      ],
+      "position_designation": "C",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-10",
+      "pokemon_id": 34,
+      "species": "nidoking",
+      "nickname": null,
+      "ability_id": 38,
+      "ability_name": "poison-point",
+      "move_ids": [
+        182,
+        70,
+        115,
+        34
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "reflect",
+        "body-slam"
+      ],
+      "position_designation": "RG",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-o-11",
+      "pokemon_id": 149,
+      "species": "dragonite",
+      "nickname": null,
+      "ability_id": 39,
+      "ability_name": "inner-focus",
+      "move_ids": [
+        182,
+        70,
+        115,
+        34
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "reflect",
+        "body-slam"
+      ],
+      "position_designation": "RT",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-01",
+      "pokemon_id": 143,
+      "species": "snorlax",
+      "nickname": null,
+      "ability_id": 17,
+      "ability_name": "immunity",
+      "move_ids": [
+        182,
+        70,
+        34,
+        157
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "body-slam",
+        "rock-slide"
+      ],
+      "position_designation": "NT",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-02",
+      "pokemon_id": 112,
+      "species": "rhydon",
+      "nickname": null,
+      "ability_id": 31,
+      "ability_name": "lightning-rod",
+      "move_ids": [
+        182,
+        70,
+        334,
+        34
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "iron-defense",
+        "body-slam"
+      ],
+      "position_designation": "DE-L",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-03",
+      "pokemon_id": 9,
+      "species": "blastoise",
+      "nickname": null,
+      "ability_id": 67,
+      "ability_name": "torrent",
+      "move_ids": [
+        182,
+        70,
+        334,
+        34
+      ],
+      "move_names": [
+        "protect",
+        "strength",
+        "iron-defense",
+        "body-slam"
+      ],
+      "position_designation": "DE-R",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-04",
+      "pokemon_id": 62,
+      "species": "poliwrath",
+      "nickname": null,
+      "ability_id": 11,
+      "ability_name": "water-absorb",
+      "move_ids": [
+        339,
+        182,
+        70,
+        197
+      ],
+      "move_names": [
+        "bulk-up",
+        "protect",
+        "strength",
+        "detect"
+      ],
+      "position_designation": "ILB-L",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-05",
+      "pokemon_id": 57,
+      "species": "primeape",
+      "nickname": null,
+      "ability_id": 72,
+      "ability_name": "vital-spirit",
+      "move_ids": [
+        339,
+        182,
+        70,
+        197
+      ],
+      "move_names": [
+        "bulk-up",
+        "protect",
+        "strength",
+        "detect"
+      ],
+      "position_designation": "ILB-R",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-06",
+      "pokemon_id": 125,
+      "species": "electabuzz",
+      "nickname": null,
+      "ability_id": 9,
+      "ability_name": "static",
+      "move_ids": [
+        339,
+        182,
+        70,
+        98
+      ],
+      "move_names": [
+        "bulk-up",
+        "protect",
+        "strength",
+        "quick-attack"
+      ],
+      "position_designation": "OLB-L",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-07",
+      "pokemon_id": 28,
+      "species": "sandslash",
+      "nickname": null,
+      "ability_id": 8,
+      "ability_name": "sand-veil",
+      "move_ids": [
+        97,
+        182,
+        70,
+        197
+      ],
+      "move_names": [
+        "agility",
+        "protect",
+        "strength",
+        "detect"
+      ],
+      "position_designation": "OLB-R",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-08",
+      "pokemon_id": 123,
+      "species": "scyther",
+      "nickname": null,
+      "ability_id": 68,
+      "ability_name": "swarm",
+      "move_ids": [
+        97,
+        104,
+        98,
+        197
+      ],
+      "move_names": [
+        "agility",
+        "double-team",
+        "quick-attack",
+        "detect"
+      ],
+      "position_designation": "CB-L",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-09",
+      "pokemon_id": 141,
+      "species": "kabutops",
+      "nickname": null,
+      "ability_id": 33,
+      "ability_name": "swift-swim",
+      "move_ids": [
+        104,
+        182,
+        332,
+        43
+      ],
+      "move_names": [
+        "double-team",
+        "protect",
+        "aerial-ace",
+        "leer"
+      ],
+      "position_designation": "CB-R",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-10",
+      "pokemon_id": 38,
+      "species": "ninetales",
+      "nickname": null,
+      "ability_id": 18,
+      "ability_name": "flash-fire",
+      "move_ids": [
+        97,
+        104,
+        98,
+        182
+      ],
+      "move_names": [
+        "agility",
+        "double-team",
+        "quick-attack",
+        "protect"
+      ],
+      "position_designation": "S-L",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    },
+    {
+      "instance_id": "balanced-d-11",
+      "pokemon_id": 82,
+      "species": "magneton",
+      "nickname": null,
+      "ability_id": 42,
+      "ability_name": "magnet-pull",
+      "move_ids": [
+        104,
+        182,
+        129,
+        113
+      ],
+      "move_names": [
+        "double-team",
+        "protect",
+        "swift",
+        "light-screen"
+      ],
+      "position_designation": "S-R",
+      "validation": {
+        "species_allowed": true,
+        "ability_official": true,
+        "four_distinct_eligible_moves": true,
+        "football_anatomy_legality": "NEEDS_D3_REVIEW",
+        "ability_move_sport_effects": "NOT_ALL_APPROVED"
+      },
+      "origin": "pfl_designed"
+    }
+  ],
+  "lineups": {
+    "offense": [
+      {
+        "role": "QB",
+        "instance_id": "balanced-o-01"
+      },
+      {
+        "role": "RB",
+        "instance_id": "balanced-o-02"
+      },
+      {
+        "role": "FB",
+        "instance_id": "balanced-o-03"
+      },
+      {
+        "role": "WR-X",
+        "instance_id": "balanced-o-04"
+      },
+      {
+        "role": "WR-Z",
+        "instance_id": "balanced-o-05"
+      },
+      {
+        "role": "TE",
+        "instance_id": "balanced-o-06"
+      },
+      {
+        "role": "LT",
+        "instance_id": "balanced-o-07"
+      },
+      {
+        "role": "LG",
+        "instance_id": "balanced-o-08"
+      },
+      {
+        "role": "C",
+        "instance_id": "balanced-o-09"
+      },
+      {
+        "role": "RG",
+        "instance_id": "balanced-o-10"
+      },
+      {
+        "role": "RT",
+        "instance_id": "balanced-o-11"
+      }
+    ],
+    "defense": [
+      {
+        "role": "NT",
+        "instance_id": "balanced-d-01"
+      },
+      {
+        "role": "DE-L",
+        "instance_id": "balanced-d-02"
+      },
+      {
+        "role": "DE-R",
+        "instance_id": "balanced-d-03"
+      },
+      {
+        "role": "ILB-L",
+        "instance_id": "balanced-d-04"
+      },
+      {
+        "role": "ILB-R",
+        "instance_id": "balanced-d-05"
+      },
+      {
+        "role": "OLB-L",
+        "instance_id": "balanced-d-06"
+      },
+      {
+        "role": "OLB-R",
+        "instance_id": "balanced-d-07"
+      },
+      {
+        "role": "CB-L",
+        "instance_id": "balanced-d-08"
+      },
+      {
+        "role": "CB-R",
+        "instance_id": "balanced-d-09"
+      },
+      {
+        "role": "S-L",
+        "instance_id": "balanced-d-10"
+      },
+      {
+        "role": "S-R",
+        "instance_id": "balanced-d-11"
+      }
+    ]
+  },
+  "special_teams_role_suggestions": {
+    "K": "balanced-o-02",
+    "P": "balanced-o-04",
+    "LS": "balanced-o-09",
+    "H": "balanced-o-01",
+    "RET": "balanced-o-05"
+  },
+  "special_teams_full_units": "SIX_AUTO_ASSIGNED_UNITS_DATA_VALIDATED_ANATOMY_PENDING",
+  "offense_style": "balanced",
+  "defense_style": "balanced",
+  "offense_plays": [
+    "O_RUN_INSIDE",
+    "O_RUN_OUTSIDE",
+    "O_PASS_SHORT",
+    "O_PASS_INTERMEDIATE",
+    "O_PASS_DEEP",
+    "O_PLAY_ACTION"
+  ],
+  "defense_plays": [
+    "D_RUN_FIT",
+    "D_EDGE_CONTAIN",
+    "D_ZONE",
+    "D_MAN",
+    "D_RUSH",
+    "D_CONTAIN_QB"
+  ],
+  "bot_profile": {
+    "decision_level": "intermediate",
+    "cheating_bonuses": false
+  },
+  "provenance": "pfl_designed",
+  "special_teams_lineups": {
+    "kickoff": [
+      {
+        "role": "K",
+        "instance_id": "balanced-o-02"
+      },
+      {
+        "role": "L1",
+        "instance_id": "balanced-d-01"
+      },
+      {
+        "role": "L2",
+        "instance_id": "balanced-d-02"
+      },
+      {
+        "role": "L3",
+        "instance_id": "balanced-d-03"
+      },
+      {
+        "role": "L4",
+        "instance_id": "balanced-d-04"
+      },
+      {
+        "role": "L5",
+        "instance_id": "balanced-d-05"
+      },
+      {
+        "role": "R1",
+        "instance_id": "balanced-d-06"
+      },
+      {
+        "role": "R2",
+        "instance_id": "balanced-d-07"
+      },
+      {
+        "role": "R3",
+        "instance_id": "balanced-d-08"
+      },
+      {
+        "role": "R4",
+        "instance_id": "balanced-d-09"
+      },
+      {
+        "role": "R5",
+        "instance_id": "balanced-d-10"
+      }
+    ],
+    "kickoff_return": [
+      {
+        "role": "RET",
+        "instance_id": "balanced-o-05"
+      },
+      {
+        "role": "L1",
+        "instance_id": "balanced-o-01"
+      },
+      {
+        "role": "L2",
+        "instance_id": "balanced-o-02"
+      },
+      {
+        "role": "L3",
+        "instance_id": "balanced-o-03"
+      },
+      {
+        "role": "L4",
+        "instance_id": "balanced-o-04"
+      },
+      {
+        "role": "L5",
+        "instance_id": "balanced-o-06"
+      },
+      {
+        "role": "R1",
+        "instance_id": "balanced-o-07"
+      },
+      {
+        "role": "R2",
+        "instance_id": "balanced-o-08"
+      },
+      {
+        "role": "R3",
+        "instance_id": "balanced-o-09"
+      },
+      {
+        "role": "R4",
+        "instance_id": "balanced-o-10"
+      },
+      {
+        "role": "R5",
+        "instance_id": "balanced-o-11"
+      }
+    ],
+    "punt": [
+      {
+        "role": "LS",
+        "instance_id": "balanced-o-09"
+      },
+      {
+        "role": "P",
+        "instance_id": "balanced-o-04"
+      },
+      {
+        "role": "L1",
+        "instance_id": "balanced-o-01"
+      },
+      {
+        "role": "L2",
+        "instance_id": "balanced-o-02"
+      },
+      {
+        "role": "L3",
+        "instance_id": "balanced-o-03"
+      },
+      {
+        "role": "L4",
+        "instance_id": "balanced-o-05"
+      },
+      {
+        "role": "R1",
+        "instance_id": "balanced-o-06"
+      },
+      {
+        "role": "R2",
+        "instance_id": "balanced-o-07"
+      },
+      {
+        "role": "R3",
+        "instance_id": "balanced-o-08"
+      },
+      {
+        "role": "R4",
+        "instance_id": "balanced-o-10"
+      },
+      {
+        "role": "R5",
+        "instance_id": "balanced-o-11"
+      }
+    ],
+    "punt_return": [
+      {
+        "role": "RET",
+        "instance_id": "balanced-o-05"
+      },
+      {
+        "role": "L1",
+        "instance_id": "balanced-d-01"
+      },
+      {
+        "role": "L2",
+        "instance_id": "balanced-d-02"
+      },
+      {
+        "role": "L3",
+        "instance_id": "balanced-d-03"
+      },
+      {
+        "role": "L4",
+        "instance_id": "balanced-d-04"
+      },
+      {
+        "role": "L5",
+        "instance_id": "balanced-d-05"
+      },
+      {
+        "role": "R1",
+        "instance_id": "balanced-d-06"
+      },
+      {
+        "role": "R2",
+        "instance_id": "balanced-d-07"
+      },
+      {
+        "role": "R3",
+        "instance_id": "balanced-d-08"
+      },
+      {
+        "role": "R4",
+        "instance_id": "balanced-d-09"
+      },
+      {
+        "role": "R5",
+        "instance_id": "balanced-d-10"
+      }
+    ],
+    "field_goal_pat": [
+      {
+        "role": "LS",
+        "instance_id": "balanced-o-09"
+      },
+      {
+        "role": "H",
+        "instance_id": "balanced-o-01"
+      },
+      {
+        "role": "K",
+        "instance_id": "balanced-o-02"
+      },
+      {
+        "role": "L1",
+        "instance_id": "balanced-o-03"
+      },
+      {
+        "role": "L2",
+        "instance_id": "balanced-o-04"
+      },
+      {
+        "role": "L3",
+        "instance_id": "balanced-o-05"
+      },
+      {
+        "role": "L4",
+        "instance_id": "balanced-o-06"
+      },
+      {
+        "role": "R1",
+        "instance_id": "balanced-o-07"
+      },
+      {
+        "role": "R2",
+        "instance_id": "balanced-o-08"
+      },
+      {
+        "role": "R3",
+        "instance_id": "balanced-o-10"
+      },
+      {
+        "role": "R4",
+        "instance_id": "balanced-o-11"
+      }
+    ],
+    "field_goal_block": [
+      {
+        "role": "L1",
+        "instance_id": "balanced-d-01"
+      },
+      {
+        "role": "L2",
+        "instance_id": "balanced-d-02"
+      },
+      {
+        "role": "L3",
+        "instance_id": "balanced-d-03"
+      },
+      {
+        "role": "L4",
+        "instance_id": "balanced-d-04"
+      },
+      {
+        "role": "L5",
+        "instance_id": "balanced-d-05"
+      },
+      {
+        "role": "L6",
+        "instance_id": "balanced-d-06"
+      },
+      {
+        "role": "R1",
+        "instance_id": "balanced-d-07"
+      },
+      {
+        "role": "R2",
+        "instance_id": "balanced-d-08"
+      },
+      {
+        "role": "R3",
+        "instance_id": "balanced-d-09"
+      },
+      {
+        "role": "R4",
+        "instance_id": "balanced-d-10"
+      },
+      {
+        "role": "R5",
+        "instance_id": "balanced-d-11"
+      }
+    ]
+  },
+  "special_teams_offense_plays": [
+    "ST_O_KICKOFF",
+    "ST_O_PUNT",
+    "ST_O_FIELD_GOAL"
+  ],
+  "special_teams_defense_plays": [
+    "ST_D_KICK_RETURN",
+    "ST_D_PUNT_RETURN",
+    "ST_D_KICK_BLOCK"
+  ],
+  "play_selection": {
+    "offense_base_weights_percent": {
+      "O_RUN_INSIDE": 24,
+      "O_RUN_OUTSIDE": 16,
+      "O_PASS_SHORT": 27,
+      "O_PASS_INTERMEDIATE": 15,
+      "O_PASS_DEEP": 9,
+      "O_PLAY_ACTION": 9
+    },
+    "defense_base_weights_percent": {
+      "D_RUN_FIT": 21,
+      "D_EDGE_CONTAIN": 13,
+      "D_ZONE": 24,
+      "D_MAN": 18,
+      "D_RUSH": 14,
+      "D_CONTAIN_QB": 10
+    },
+    "situational_override": "SEE_RULES_6_6_ST.md",
+    "st_selection": "BY_GAME_STATE_NOT_WEIGHTED"
+  },
+  "design_status": "MVP_PRESET_SPECIFIED_WITH_EXPLICIT_PFL_ANATOMY_CONVENTIONS",
+  "provenance_note": "Configuração e pesos propostos pela PFL.",
+  "design_revision": "D3-curadoria-52-review",
+  "playable_gate": {
+    "effects": "52 mappings proposed, not approved",
+    "anatomy": "NOT_PASSED",
+    "18_plays": "design candidates, math calibration pending"
+  },
+  "rule_note": "Move/ability additional effects not yet mechanically executable; default inert policy shared with humans and bots."
+}
